@@ -9,4 +9,4 @@ This tool utilizes various libraries like BeautifulSoup & Selenium.
 Furthermore it was programmed to work with a Chrome-Browser.
 
 The respective driver for the browser (Chrome) can be downloaded here:
-chromedriver.chromium.org/downloads.
+https://chromedriver.chromium.org/downloads
