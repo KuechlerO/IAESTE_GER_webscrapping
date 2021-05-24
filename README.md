@@ -10,3 +10,6 @@ Furthermore it was programmed to work with a Chrome-Browser.
 
 The respective driver for the browser (Chrome) can be downloaded here:
 https://chromedriver.chromium.org/downloads
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
